@@ -1,10 +1,3 @@
-COMPILING IN LINUX
-****************************
-
-Remember to install the libraries:
-
-sudo apt-get install libsdl2-dev freeglut3 freeglut3-dev
-
-and then just use the makefile:
-
-make
+Double click on framework.exe to run the demo.
+Use the mouse and WASD to move the camera.
+Use the debug panels to change between the different rendering modes.
